@@ -26,6 +26,7 @@ Use this skill as the general launcher for Glyphs MCP tasks.
 - Spacing, sidebearings, and width review: follow `glyphs-mcp-spacing`.
 - Outlines, components, anchors, selected nodes, or bundled docs: follow `glyphs-mcp-outlines-docs`.
 - Roman-to-italic or oblique first passes: follow `glyphs-mcp-italic-first-pass`.
+- Low-contrast background drafts (thicken thins, lock stems/extrema, preserve corner/cap): follow `glyphs-mcp-low-contrast`.
 - Generic Python with no Glyphs app or font target does not use a Glyphs skill.
 - For other tasks, use the smallest relevant Glyphs MCP tool set and keep the same review-first safety rules.
 
